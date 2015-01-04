@@ -1,0 +1,2 @@
+#!/env/ruby
+require 'blinkenwords/blinkenwords_main'
